@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.music.ServiceActivity">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="@string/music_service"
+        android:textSize="@dimen/dims_24sp"
+        android:layout_marginTop="@dimen/dims_20dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/musicStart"
+        android:layout_width="@dimen/dims_200dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/music"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:cornerRadius="@dimen/dims_20dp"
+        android:layout_marginTop="@dimen/dims_20dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/white"
+        android:text="@string/music_start"
+        android:textAllCaps="false"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

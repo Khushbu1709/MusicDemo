@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/dims_50dp"
+        android:layout_height="@dimen/dims_50dp"
+        android:layout_marginStart="@dimen/dims_20dp"
+        android:layout_marginTop="@dimen/dims_10dp"
+        android:src="@drawable/music123" />
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dims_10dp"
+        android:background="@color/black"
+        android:text="@string/play"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btnClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dims_20dp"
+        android:layout_marginTop="@dimen/dims_10dp"
+        android:layout_toRightOf="@id/btnPlay"
+        android:background="@color/black"
+        android:text="@string/close"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+
+</RelativeLayout>

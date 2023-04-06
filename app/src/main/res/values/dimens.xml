@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<.......................................dp....................................../>-->
+
+    <dimen name="dims_1dp">1dp</dimen>
+    <dimen name="dims_0dp">0dp</dimen>
+    <dimen name="dims_2dp">2dp</dimen>
+    <dimen name="dims_3dp">3dp</dimen>
+    <dimen name="dims_4dp">4dp</dimen>
+    <dimen name="dims_5dp">5dp</dimen>
+    <dimen name="dims_6dp">6dp</dimen>
+    <dimen name="dims_7dp">7dp</dimen>
+    <dimen name="dims_8dp">8dp</dimen>
+    <dimen name="dims_9dp">9dp</dimen>
+    <dimen name="dims_10dp">10dp</dimen>
+    <dimen name="dims_11dp">11dp</dimen>
+    <dimen name="dims_12dp">12dp</dimen>
+    <dimen name="dims_13dp">13dp</dimen>
+    <dimen name="dims_14dp">14dp</dimen>
+    <dimen name="dims_15dp">15dp</dimen>
+    <dimen name="dims_16dp">16dp</dimen>
+    <dimen name="dims_17dp">17dp</dimen>
+    <dimen name="dims_18dp">18dp</dimen>
+    <dimen name="dims_19dp">19dp</dimen>
+    <dimen name="dims_20dp">20dp</dimen>
+    <dimen name="dims_21dp">21dp</dimen>
+    <dimen name="dims_22dp">22dp</dimen>
+    <dimen name="dims_23dp">23dp</dimen>
+    <dimen name="dims_24dp">24dp</dimen>
+    <dimen name="dims_25dp">25dp</dimen>
+    <dimen name="dims_26dp">26dp</dimen>
+    <dimen name="dims_27dp">27dp</dimen>
+    <dimen name="dims_28dp">28dp</dimen>
+    <dimen name="dims_29dp">29dp</dimen>
+    <dimen name="dims_30dp">30dp</dimen>
+    <dimen name="dims_31dp">31dp</dimen>
+    <dimen name="dims_32dp">32dp</dimen>
+    <dimen name="dims_33dp">33dp</dimen>
+    <dimen name="dims_34dp">34dp</dimen>
+    <dimen name="dims_35dp">35dp</dimen>
+    <dimen name="dims_36dp">36dp</dimen>
+    <dimen name="dims_37dp">37dp</dimen>
+    <dimen name="dims_38dp">38dp</dimen>
+    <dimen name="dims_39dp">39dp</dimen>
+    <dimen name="dims_40dp">40dp</dimen>
+    <dimen name="dims_41dp">41dp</dimen>
+    <dimen name="dims_42dp">42dp</dimen>
+    <dimen name="dims_43dp">43dp</dimen>
+    <dimen name="dims_44dp">44dp</dimen>
+    <dimen name="dims_45dp">45dp</dimen>
+    <dimen name="dims_46dp">46dp</dimen>
+    <dimen name="dims_47dp">47dp</dimen>
+    <dimen name="dims_48dp">48dp</dimen>
+    <dimen name="dims_49dp">49dp</dimen>
+    <dimen name="dims_50dp">50dp</dimen>
+    <dimen name="dims_120dp">120dp</dimen>
+    <dimen name="dims_100dp">100dp</dimen>
+    <dimen name="dims_150dp">150dp</dimen>
+    <dimen name="dims_200dp">200dp</dimen>
+    <dimen name="dims_250dp">250dp</dimen>
+    <dimen name="dims_70dp">70dp</dimen>
+    <dimen name="dims_410dp">410dp</dimen>
+    <dimen name="dims_280dp">280dp</dimen>
+    <dimen name="dims_300dp">300dp</dimen>
+    <dimen name="dims_350dp">350dp</dimen>
+    <dimen name="dims_400dp">400dp</dimen>
+    <dimen name="dims_450dp">450dp</dimen>
+    <dimen name="dims_500dp">500dp</dimen>
+    <dimen name="dims_550dp">550dp</dimen>
+    <dimen name="dims_600dp">600dp</dimen>
+    <dimen name="dims_650dp">650dp</dimen>
+    <dimen name="dims_900dp">900dp</dimen>
+    <dimen name="dims_170dp">170dp</dimen>
+    <dimen name="dims_220dp">220dp</dimen>
+    <dimen name="dims_80dp">80dp</dimen>
+    <dimen name="dims_90dp">90dp</dimen>
+    <dimen name="dims_320dp">320dp</dimen>
+    <dimen name="dims_270dp">270dp</dimen>
+    <dimen name="dims_230dp">230dp</dimen>
+    <dimen name="dims_240dp">240dp</dimen>
+    <dimen name="dims_140dp">140dp</dimen>
+    <dimen name="dims_130dp">130dp</dimen>
+    <dimen name="dims_110dp">110dp</dimen>
+
+
+    <!--<.......................................sp....................................../>-->
+
+
+    <dimen name="dims_1sp">1sp</dimen>
+    <dimen name="dims_2sp">2sp</dimen>
+    <dimen name="dims_3sp">3sp</dimen>
+    <dimen name="dims_4sp">4sp</dimen>
+    <dimen name="dims_5sp">5sp</dimen>
+    <dimen name="dims_6sp">6sp</dimen>
+    <dimen name="dims_7sp">7sp</dimen>
+    <dimen name="dims_8sp">8sp</dimen>
+    <dimen name="dims_9sp">9sp</dimen>
+    <dimen name="dims_10sp">10sp</dimen>
+    <dimen name="dims_11sp">11sp</dimen>
+    <dimen name="dims_12sp">12sp</dimen>
+    <dimen name="dims_13sp">13sp</dimen>
+    <dimen name="dims_14sp">14sp</dimen>
+    <dimen name="dims_15sp">15sp</dimen>
+    <dimen name="dims_16sp">16sp</dimen>
+    <dimen name="dims_17sp">17sp</dimen>
+    <dimen name="dims_18sp">18sp</dimen>
+    <dimen name="dims_19sp">19sp</dimen>
+    <dimen name="dims_20sp">20sp</dimen>
+    <dimen name="dims_21sp">21sp</dimen>
+    <dimen name="dims_22sp">22sp</dimen>
+    <dimen name="dims_23sp">23sp</dimen>
+    <dimen name="dims_24sp">24sp</dimen>
+    <dimen name="dims_25sp">25sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+
+
+</resources>
